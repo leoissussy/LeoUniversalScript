@@ -186,6 +186,72 @@ shrinkTween.Completed:Wait()
 -- Remove the GUI after the animation
 screenGui:Destroy()
 
+        local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
+
+        local Window = Rayfield:CreateWindow({
+
+            Name = "Leo Universal Script",
+
+            Icon = 0,
+
+            LoadingTitle = "Rayfield Interface Suite",
+
+            LoadingSubtitle = "by Leo",
+
+            ShowText = "Mobile Rayfield",
+
+            Theme = "Amethyst",
+
+            ToggleUIKeybind = "P",
+
+            DisableRayfieldPrompts = false,
+
+            DisableBuildWarnings = false,
+
+            ConfigurationSaving = {
+
+                Enabled = true,
+
+                FolderName = nil,
+
+                FileName = "GAG SCRIPT"
+
+            },
+
+            Discord = {
+
+                Enabled = false,
+
+                Invite = "noinvitelink",
+
+                RememberJoins = true
+
+            },
+
+            KeySystem = true,
+
+            KeySettings = {
+
+                Title = "Key",
+
+                Subtitle = "Key System",
+
+                Note = "AskThe Owner For The Key...",
+
+                FileName = "Key",
+
+                SaveKey = true,
+
+                GrabKeyFromSite = false,
+
+                Key = { "idk" }
+
+            }
+
+        })
+
+        local Tab = Window:CreateTab("Universal", 4483362458)
+
         local TabCoolKidGui = Window:CreateTab("CoolKidV3", 4483362458)
 
         local TabStealABrainRot = Window:CreateTab("StealABrainRot", 4483362458)
@@ -279,7 +345,3 @@ screenGui:Destroy()
         })
 
         Rayfield:LoadConfiguration()
-
-    end)
-
-end)
