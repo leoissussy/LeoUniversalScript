@@ -1,1 +1,285 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _geLWbOELUezU = a; end)); return(function(r,...)local f;local s;local l;local a;local t;local u;local e=24915;local d=0;local n={};while d<204 do d=d+1;while d<0x3cb and e%0x4d7a<0x26bd do d=d+1 e=(e*272)%7129 local h=d+e if(e%0x1438)<=0xa1c then e=(e+0x1b4)%0x6f40 while d<0x85 and e%0xc0a<0x605 do d=d+1 e=(e*549)%35143 local t=d+e if(e%0x4142)>0x20a1 then e=(e+0x9e)%0x502c local e=80218 if not n[e]then n[e]=0x1 u={};end elseif e%2~=0 then e=(e*0x3ff)%0x681a local e=86190 if not n[e]then n[e]=0x1 l=string;end else e=(e+0x138)%0x412d d=d+1 local e=16472 if not n[e]then n[e]=0x1 s=getfenv and getfenv();end end end elseif e%2~=0 then e=(e*0x36e)%0x3476 while d<0x115 and e%0x271e<0x138f do d=d+1 e=(e*733)%27221 local t=d+e if(e%0x4b88)<=0x25c4 then e=(e-0x3d7)%0x7949 local e=82606 if not n[e]then n[e]=0x1 s=(not s)and _ENV or s;end elseif e%2~=0 then e=(e*0x14d)%0xb691 local e=62742 if not n[e]then n[e]=0x1 f="\4\8\116\111\110\117\109\98\101\114\85\121\74\101\68\70\119\82\0\6\115\116\114\105\110\103\4\99\104\97\114\84\83\73\87\107\115\101\99\0\6\115\116\114\105\110\103\3\115\117\98\120\105\122\120\74\98\105\106\0\6\115\116\114\105\110\103\4\98\121\116\101\76\97\116\116\80\77\106\86\0\5\116\97\98\108\101\6\99\111\110\99\97\116\122\97\65\116\103\80\77\105\0\5\116\97\98\108\101\6\105\110\115\101\114\116\108\122\76\100\104\67\118\122\5";end else e=(e+0x6d)%0x7504 d=d+1 local e=31181 if not n[e]then n[e]=0x1 a=tonumber;end end end else e=(e*0x95)%0x6ba4 d=d+1 while d<0x17e and e%0x3108<0x1884 do d=d+1 e=(e*325)%37625 local f=d+e if(e%0xaa2)<0x551 then e=(e*0x297)%0x6be4 local e=27851 if not n[e]then n[e]=0x1 t=function(n)local e=0x01 local function d(d)e=e+d return n:sub(e-d,e-0x01)end while true do local n=d(0x01)if(n=="\5")then break end local e=l.byte(d(0x01))local e=d(e)if n=="\2"then e=u.UyJeDFwR(e)elseif n=="\3"then e=e~="\0"elseif n=="\6"then s[e]=function(e,d)return r(8,nil,r,d,e)end elseif n=="\4"then e=s[e]elseif n=="\0"then e=s[e][d(l.byte(d(0x01)))];end local d=d(0x08)u[d]=e end end end elseif e%2~=0 then e=(e+0x3b5)%0x2e4a local e=1438 if not n[e]then n[e]=0x1 end else e=(e*0x11c)%0xbe7e d=d+1 local e=93237 if not n[e]then n[e]=0x1 end end end end end e=(e+884)%45857 end t(f);local e={};for d=0x0,0xff do local n=u.TSIWksec(d);e[d]=n;e[n]=d;end local function h(d)return e[d];end local l=(function(f,l)local r,n=0x01,0x10 local d={{},{},{}}local s=-0x01 local e=0x01 local t=f while true do d[0x03][u.xizxJbij(l,e,(function()e=r+e return e-0x01 end)())]=(function()s=s+0x01 return s end)()if s==(0x0f)then s=""n=0x000 break end end local s=#l while e<s+0x01 do d[0x02][n]=u.xizxJbij(l,e,(function()e=r+e return e-0x01 end)())n=n+0x01 if n%0x02==0x00 then n=0x00 u.lzLdhCvz(d[0x01],(h((((d[0x03][d[0x02][0x00]]or 0x00)*0x10)+(d[0x03][d[0x02][0x01]]or 0x00)+t)%0x100)));t=f+t;end end return u.zaAtgPMi(d[0x01])end);t(l(248,"p:Q!)H3yzUC<#ewt e"));t(l(92,"/Vm-:OT*5G;n9#wE;::wOE):;T:Vw;5*95995VV#9:-E^n5G:GEEG-::##V99V#lT*qGn5O9wnGI:E9E*9-O9 *EnOO#T9Vm;#OT^A;*:O9-*TV*nwOGVwOHE;onn1Omw#GT--*O5VVG#aT-j9nmOGwl;Vmn#TT--:T5VpV#nOT9=::OO&w9GV:5w:*9^T;GT#Vn;m-*JT-9w5E-5G-9#G*Om5nG*._V;TO:EV;m-Ewm5V-5#jOGE O:E9C9;nO-E5G;-O#w*n-mnO*uw5Gm:Vj-*T#55VG:mO9;*5VOO;T#^;n!:OwnG*-GnO5:Ew9GTTmVnVE:G;;#:;ES5Omn#*T5h;nnOTVGn;:wEm-:#Gw55wmG#m*9VG9V:*En5E::E-G9#c*T5*V#95TOQ*n9TTw55#-G9TG;-V#Eh9n:9VOGVA;5wGwwG5-Ew-5;V:;;O5E#5wOTW-5#wV"));local e=(-9784+(function()local s,d=0,1;(function(e,d)e(d(e,d),e(e,e))end)(function(e,n)if s>386 then return e end s=s+1 d=(d-850)%31085 if(d%634)<317 then d=(d+208)%17821 return e else return e(e(n,e and e),n(n and n,e))end return n(e(n,e),n(e,n))end,function(n,e)if s>437 then return n end s=s+1 d=(d*789)%48234 if(d%278)>=139 then d=(d-712)%1271 return e else return e(n(e,n),e(n,e))end return n(e(e,e)and n(e,e),n(n,e))end)return d;end)())local h=u.XVcZyvff or u.iAlBibye;local le=(getfenv)or(function()return _ENV end);local s=2;local g=1;local f=4;local t=3;local function ne(b,...)local c=l(e,"Oq5%LJC>sdP6M&V,MsVPJ,&LLMMd%%Psq&&V>C&,J5&5566M5C6%qLdCdMqss%,sC&5d6MLvdLq6d&qC>VV&CL>>V&JV&%Ls!%PqqJd-dLq5>6,3CJ5M6L%>dV55>5uCCg,5JsV%L,Jd&JLk6J5PVCs%,&CC&LJJd,Lq6%5T%LPVq6de(JM,%sP>LsMj%qd&q,5JPJiMsq,C6LL>M%%d6qqd>Aq%>M&qC6VJLM&^&%LC66%rPJqPM,Cd6d,q>?&sL&M5dCq%sCV5C5V5LLP,56Pd5V6s*s5Pd&q5s>,M>qMCMPq+LsM#5,PLqd&J>5VMJJM%LLLVMq%CP653dJmPV%%LCMVVJ%Ms%&,Jd%#Jsq,d%,&JJs6&%L65q&s,qqsM}?zJ>PVMCq&C6d5JPMPMq,dLXd>V,%CsM&dqMPLL6q5Cd6C<,LC&&sJsM5%&6q66%6P5q>sMLVVJCJMd5q6d5Zdsq5sM,PL,,5J6CPVsJqMC%6S>sC_%s%MPCsVz5CM{%CPVq65,P6qCs6H8MdL,&>LssM5&d,q>s,MJ_Ps,,qCC&6dC%LPCq6d%qZ5VV,J&&MLqMW%,P_5dPXq%ssG%S5>PVdJV&%s65MdVqCsVMLadsL,tCJ&PP%%6dVq%dqVq>6VsCCC,V&JCM6L-,sddqqs5VV>-MJLdMq%66M5,%LPPq6dh*JM&Js&5%VJWM%%sP&55d>7M6J%CCVVLJJMP%,vdC&e>s/s6G5>5V>JM%JP65>dqqVqMs,iL>dVVC%&sdqs5%dPM5qdC96sE,JPsd,J>MV%V6%5sVC>,VsC%&CVsJ6&_LJ6P5,PL5&MVeC>MV&C5&>dP55P%qB55dJTP>,,LCd&V>,csLFMq5>dMqqMsCPV5Ld6,Lqd>55Ps*sCs,C>P&MJsC%&CL6Mb%JPPq,>LLssq,6Cs&&J5qWPP5LdP,M>VVsJ,>5VsJdMVL%,&d6q>sLs,qP>CV6Cc556d5VP5,Ms%,CC>&DCC&dLJ6,5&PV,ssV,V>%VdC>P,J>MM%,LJ6V5MPqqC,q>5VLJ>6qq6s6MK%%Psq&d52>,M%5PC&&JEMJ%PP,5LJdsPM%,PC&V5J>MMLq,CsjV2qssV,,>LVdMJ%L6J55%JPMqMdq9CMqC5MCL>6LM>LJPV5%dsCq,dJM&qL,Pd%f6556d%n5>ds6CL&dLVM%%sP&d5>8Pd56d!2J>P%qMJ%M6d5PPPqMd>-J>4MLCJ&>L,M>,&L56s5ddVq%&LC5&sJ6J,&&LC66%/M6dqMM%JPVqVsdLWsP,%CM&M5%dCH6sp,JCP&,P5HdLqMd5sd&q5MdJ&&LJqM5L56L5,d&KsC&fxCLVCC;&5%s6V5CPLlVddds)V>,,LCd%56sLa6q6J%rdMqqsCLV&%J>6,%L65toP%2Mq66LW5>>VM6J%V6L%%JJq!ssbECVdVCPMdJZ>5%>PV5fdPmF>%,dJ,&%wL&9%>6>5XL&V,sC,6C,MdJkM%,JP/,5%>6>qVd%0s&qJ>&,J_Pd(>P>qdsMks>MVdC>V5VCJ&M&L56>sqVJ>,,s%5>>sL,sC&V5J>MMCqJMdJqP>M,qCC5,6d%SsVqVs,&%JPVsC>MML6MP566L56dVq%sVs&NC>LVdJV5%6LqVP6{MsV2LSd>,,)CJ&PP55&6%q%5J,V>%VsJ&&5L>s}46L56J5Pd,qLsd,VPM5sCl&&L>6M%qV6>MG%CVVsJC6>L&M>5,d&P&5%dd+Msq,CC6VZ&J5<>,6>%5dVq%ssL&&VLs&J%C6s}5PJ<VqMs,9L>dVVC%&sdCc5%dPM5qdCS6s0,Jdsq,J>V6%V6%5sS,>L,,>c&dJ6Ms%5>,VdJVqsd5,VCs6J5V&s%sMv55Ps,%sJ,CCV&5JM&sJ5>d%qPqV,5ddMqqsC,6>ECJPJ1,LC6d5VP%qss&s5V55MCL&ML6M:%JV&dq,dCP,5JsCP&&J5M>%M6q5C,L&9ssELC,VLJd55Ps%*Pq,J>PV&C&&6L,C3&JL&M%%LPdqVV%>L&VC6CPVJJqMC%6HLsPq5s%&:JP&ULsML&0Ls6>5MPqC6,VCJV>%%M%&>J%6V%%PsCC,,CsV%JC65%M655PPC6556dd7Vs%LV&5LJM6%66%Vs5VPLqJsP,,VsLP&q%VL6Ms%5P>qM&5>L&VJs&LLMd,%%P5qMd>dPT&s5,>CMVqJCM6LQ,s56d,qLsdLP>%VsJ&&%L>6M%q6s5Vdg0J>PqJCL&dLV&J%&P&55d>qJsq,CC6)CJMMP%,6L5,dVqLss%%>5V6>P&qLC66%CPJq6s,#L&%VVC%&sLVM5%>PM%%6>T6sn,JPL&,JLMdJnMC5sdVq5d6,M>qVCC&V%LJ6M5,VdqdsV?%sP,JC5&PLMVM%CP65A6J5%>,,>CdVqJ%.%%&&5%qdMqLsC,V>yVCJPV,JC6d%qP%q6s&Jo>>,V>>&CL,M!CCPPq,dLtd&J,%CP&&JLM>Lb6q%sP>qcss,PdPVLJdMVC%Md5&PJq>s,_q>sV6>5&&LPML%L&CqVd%ys>&,MC>&,JqM6%6655JPM5LsL,&CV*VJsM&L5&>LCPqqPs6lL>JVMJ,VCJq6V%dPsJsd5p>>M,qPL&6JLMJL*P,5Cdd5VVC,s>5V5J6MML56CL664qJs,,,>dVd>U&%JPM%%5PVqM&%zC>6,1CJ,qL,Md%d6J5%dP0&dLXVCMV>JCV,LD6J5P6,5qsdlL>%VVJ&VAL>MV%6PC55d-%P>PV,CL&dJ,M%LcP&5>d>EMsq,C&dV/J6MPL>6L56dVL%PJ,&>sV>C%&qsC66CcPPqPdJ(L>&VVPV&s>&&C%>655q6C76dq,J>MVLJL&e%V&>5sd&q5P>:P>qV&J6&>LJMs5,6C5>sV;6>sqdC5&>LMMqL>P65ddJq?>,,LCd&VJCMsLL65%cdMq%sC1&s>VJC5M,Jd6d5VP%%sPC<5>,VMCd&CJdMkL>PMq,d&wd&q,%Cs&&CL&P%M665CVVq}sJ,PsqV&Jd&dL%t65&P5q>sMqJ>C,%CHV)LPMq%L6dL5d%=,>&5qC>VLJq,CCC6u5MdPL5sL5>CV,JCMM&LP6>CLPqqCs65kd5VPC>&LJq6VLqPs5,ddo>sJ,q>J&6JmMJLM6&5LP%<V&C,sC&V5Cd&VLqMq56P,qJsP,,sCVMJV&,Lsqh%5P>qMdqJ%>6,sCJVCL,MC%d6V%LdsqLs5%%CMVdJC&&J%6J%5d,%ssd,V>%HsC6&5L,6M%dPC5ddEq>>VV,C&&d>PM%%sP&556qbMs6,C>qV!JJMP%,6J5dPCq%d5,&>LV>CV&>LCML%w&&qPs,bLdd,MC%VqL&M6%>6P5qPsqCsh,,CP%5JLMd%VMJL5d&q&s>5J>qVCJ6V5Jq6P%6PLCMsVg%>s,,>P&>JdMqL5P65=dJjPd6,L>5&VCxMs%,65%>M2qqsV,6PMVJC%M,JC6,5VPMqsMJH5>>VMsq&,L6Md%J6%q,P5Sdd2{>CsV>J5VP%M6q5CP&5LsJjJC,%>JdMVL%MP%6P55%sM5L>CV6CRV>J56,LqPd>qd%Ts>&,5>V&MJPMCLs635>dPq,Ps,d>CV%CsM&L66>%VGqqCdL8}MJVPJ,&LCdqw%%6qq&d6T>sP,q>sL5J2M,%P&55LddmVdJ(CC&V&J>V,Lq6C56PZ5%sPws>L,LJV&JLsM&LCP>5LdqJs>6,dCJVMJCMLL5PV%sdsk&s5q>ssVqJ,M6Ld6JJqd,5CPx,V>&Vs6m&5L>6ML%M>q6d6TJM&V,CL&dCT%J%s6d55VPAMsq,CC6V,JJ&%%,MI5dPoq%dsqJ>5V,JMD:LCML%_&J56s,DM>d5qC%qqL&,5JLPM5ddCqssn%JCP,qCdMdL>6%LMd&q5s>qMssVCCL&_LV6P%&PL56P,U%s5V&Cs&>LMMq%C5e5 Py(Ps>,LCd&VJ%&P%&665>P>qqss,6s5V>JP&dLL&%5VP%qsP&qC>>,CCqVhL6MV%J6M5ddLqL>VLCCs&&J5&dL&6q%5d65dsJ,PC,VLC,MVL&6s%dP5qdsMqq&>V6Cd&JCq6,%VPd%;d,_ssC,5s6&MJqMCJ6ML5JP%#,s&,d>MV%CPVLL5Mq5M,}qCs6BE>JHJJ,&,LdMC%%Psq&d55h>M,PCCVCJlM>%PMq%&ddqss%%7C&V5J>VMsM6C%JP:q,sPR&>L,6>%&%J%6&sJP>qMdqqss6,A>q&PsqML%dPV%JP,_&s,,>6,VqJCM6J56P5PP&qL66,V>%VsJ&VPL>MC%q6Lq6d50JsP,JCLV5LV,,%s6>55Pdq5sq0GC6qsJJMP%,&L5VdVq&ss4>>5,JJMV%C%66%6PJC&s,eL>dcx>q&sJdM5>6PM5qdCq&d%,J>>&,P>Md%V6%%PP3q5dJ,M6JVCJ6&*LJ6,5,PVqddMU%>PV&>5,6LMMP%C665fd,;Ps,qsCdV>J%VC%&6L5>MML6sCXL>3qsJP&VLLM6L%P%55s&5C>>VMCq,CCJMH%,PP5ddLq>>VxJCP&&J&M>L56q5Cd6q3dV,P>6VLC5MVL%6s5&6Pq>dClqs5V6C5&JJMMC%L6LqVP&0s>&,5s>,dJq&q%6665JPsc,dCCeCVV,Js&ML56>5M6%qss6U&>J%&J,&LLd6VLCPs5sd5qL>M,%CCV6CsMJLLP,%6ddqds%mPssV5CqMMCJ6C56PI%Jd),,>VVdCs&%JC6&LLPdqMdM1CMs,7CJ&PL,&J%d6P5%Pk;&s5,>CMq,JC&JLIMq5PPqqLdd55>%,5J& CL>6M%q6s5qdpq;>P5>CL&dLVV%%6P&5&d>q>sqBLC6,5>5MPL66L%sdVq%ss=,>,V>Cd&qs,66%UPJ5MdqILs>VV6C&sL&M5LdM>5qPJ<6Ps,JCP&,JLVL%V6V5sPMq5sd,Msq3PJ6&PLJ,C5,P,qdPn<d>s,sC5<,LMMq%CM65LdJqJ>,,,CdVMJ%&P%V65%%dMCLsC,6>_,>CqM,Jq6dC,P%qss&qLssVMC,&CdVMc%JPP%q6K_ds&,%sq&&J5M>%MMP5CPCq(dL,P>qVLCd,5L%M55&65q>d>UqPC,dCN&,LP,5%L6sqVPJ55>&,&C>,qJqMC%6&*%ddPqPsL2LCV,qJs&,JM6>%sPq5Js6NE>J,M>6&LJC6VL5Psq&d5qddk,q>L&6J,MJ%PP,5LP,GVsV,s>6V5JdMMJq&P56PPqJd&,,>,Vd>E%JLsMs%5MMqMdqKCd63sCJVJL,M,%d6q5%6s55s5l5CMVMJC&9LgMJ5Md,qVsd9q>%,%J&45Ld6M%6PCCJdfLJ>PUq>>&dJdM%J&P&55d>5Md&,C>CV8C0MP>C6LLd,;q%d%,&>&V>sM&qJC5q%iP,qPMC3LsLVV>JVCL&M&%>&)5qdCw6Pi,PCPVPJL&L%VMq5sP,q&s>Hs>q%%J6&QLJ6PLPPL5CsVu6>sV&C5&>L&MqLqP65&dJBM>,4L>V&VJVMs>q655sdM5%sM,6>MVJd5M,LL6dLV6Vqsdd;5s%VMC,&CJ&MV%J6>q,P%8d>V,%>PV%J5&J%M,P5Cd6qid>,6C,,%Jd5qL%6s5&6LqVsMqq>C5dCU&JLP6,LMPd5Pd%qs>&,LC>VM>JMCLC6ICqdPq6sL96>LV%CLM&>P6>5MPq%CP>YhsqVPC6&LJ>6VLJM!q&d,N>M,,qCC&6C5&>%P6&5L&P8Vs%,s>,,JJ>&6Lqxd56P:qJdMRX>L,dJVqdLs6&%5P>5ddqq5>6<wCJ&ML,&LJ&PV5Vdsq&s5)%CMqqCLM6L66JJ&d,5%sdq-sdVsCd&5JM6M%qPC%6dLYJsCV,>=&d>JM%LPPV55PLEMMs,CC6VNC>&5%,M55dVJq%ss,&sL,%JMV)LCa5%ZPJqPs,q&>d,PC%V>L&ML%>6MLJdCqCs4{sCPV6JL&6PT6%%Ld&%>s>,M>q}CCq&)Jq6P%6PLqMsV5%sVV&CV&>JsMqLqP6%v65/PsP,LCM&VJ,MsC&M65>P>qq&T,667VJCM&>LLMJ5VMsqss&r5d>,,CqV5L6MM%JVqq,6LJ6>V,,CsVdJ5,>%MMqs>d6q6sJ%qC,,{JdV^JL6s%dP5%6sMIq>C:6C5&JJC6,L/Pd5Md%qPsL,5>L&M>&MC%66l5JdMa,d5,d>CV%JsM&L5&h5MP&qCdd}=>>VP>q&dLdM6%%V7q&d5f>dM%MCCVsJm&5%P6&5LP65Js%jCC&,qJ>MMLqMs%sPW5LsPqM>LVdJVVJJV6&L5P>C,dqDC>6a5>s&PCtMLJPPV5%dso&dq,>>dVqC>M6L56J%P6sqLdJ,VP,VsCP&5JdM5%q6%q6MsRJ>PV,sLV,LV&v%s6P55PJcMd%,VC6VVJJq&%,6L5d6i5qss}M>556JM&qLCM&L&PJ5Ps,q%>dVVC%VPCsM5LsPM%&dC36sF,JC6&,CqMdL,6%5Pd&55P6,M>&VCC6&+J56PLq_}qdd6N%s&V&C5&>CMM&%C6s5HP5WPPC,L>6VJJ%&C%&,J5>dMqqdsqJ>n,LJPq5LL6d5V6J5,s&q5>>5,Cq&CL6MY%VPP5MdLqd>V,JCsV&CsM>Ls6qJJd6q&sJ2MsLVLCCMVC>6s5&P5%>dJxqs%V6C&&JJs6,LC6>qVPqjss%,5C>&MJqM>%66,5JPC{,sL,dCVV,Js&PL5MC5MP%qCd&q_>J,sJ,VVLd6V%%Ms%Gd5qJ>M,,CCVdJr&>PqP,%%ddq&s%,sC&,LJ,MMJq6C>VPnqJsP,,sLVdCM&%Js6&%LP>5Md&<Css,R>M&PJ&MLL6M65%PJH&PC,>CMVq>C&&L?M55PPMqLd>,VsJVPJ&VEL>Vs%qPCq6dpqC>P,VCLVJLVM%%sP&Cmd>qdsquJC6V5JJ&MLJ6L%>dVL6ss,&>54>C>&qJL66%VPJ5ss,qCs6VV>5&sPDM5%>PM%%PJh6dH,J6&&,JLMdJ^Md5sPVq5dC,M>qVCC&&PLJMM5,,>qdsVY%>s,VC5VJLM&%%CP&5IPJ5V>,ZqCdqPJ%&C%&MLs%dMq,sCq#>uVJJPV,Cq6d%MP%5Cs&5d>>,V>>&CJPME%&PPq,dLq6sd,%>s&&>MM>%M6q%sPLqRdC,P>dVLJdMVL%MV5&6vq>d&yq>sV6>kVsLPMM%L&sqVPqDsP&5MC>VdJqVs%6}%5JPM5LsL#>CVp>JsM&L5&>%,Pq5Ls69V>J,sJ,VCLP6VL5Ps5%d5z>>M,qCM&6CnMJL>P,5LddmVsJ,s>6V5C>MML%6C%&6PqJdd,,sVVdJV&%CsMV%56CqMPDzCsd,:>>&VL,&L%d6&5%dsQ&dL_sCM,5JCqVLg6J5Pd,5Psdg&>%,dJ&&LL>MMLMPC5ddeqM>P,VCL,dCIM%LCP&5Jd>JLsq,C>CVnCJMPLM6L5ddV5Js&,&s%V>>5&qLC66JNPVqPPA.LsPVV>q&sJ,&J%>6V5q6Jy6s_,J>MV5JL&M%V&s5sd&q5P>!J>q,dJ6V%LJ,d5,ML%%sVqC>sY(C5V,LMMq>LP6%qdJq&>,,CCd&V>&MsL,655>dMq5sCF&s&VJC&M,>M6d5VP%%sPs 5sPVM>L&CJdMUL>66q,PswdPq,%Cs&&CLV%%MMC5CVVqZsJ,Psq,qJdVLL%M>5&P5q>dV1s>C^5Co5sLP6,%LPdJMd%q6>&.dC>&VJq&Cd%6_%>dPL6sLIMCVV%>5M&J 6>%VPqqss65a>&VPC&&LJ>6V>,Psq&dP_>sP,qCs&6JqMJLM6,5LP>SV&L,sC&V5>>&sLqML56PVqJPJ,,sCyJJVV5Ls&M%5P>qMd>qC>6ZpCJ&6L,MJ%d6/5%ds%ds5,>CMVLJCM6L46JJCd,qLsd=6>%VsJ&&5dP6M%,PC56dzDC>P3q>5&dJMM%sdP&55d>5MsP,C>dV#C%MPJP6L%6d,q%d>,&P,V>JM&qLMM6%46JqPs,BL>PVVCC&sL&VV%>PM5qdVU6sg,JCPQ6JLMd%V6C5sd&q5s>5s>qVCJ6&CLJ6P5,PLJVsVqq>s,&C5&sLMMqJqP653dJt6>,,LCdV_J%Ms%&M%5>dMqqsd,,>gVJJPqL655Vd6PC5qs&?5>>5,&mL%665MdPqVsL,s}MsL,%Cs&&dJ%dPqq5dPTBq56s5&P5q>sM.q5C,>%BPCq>sMRqMCJ>MqLVLM6,%LPdqVd%xsC&%qCPVJJqMC%6QLdM,,>L,5L5&MLdM>M,L56>5MPqqCs6HI>JV&CV&LLd6V>s7dd-,6>JV%%JM,L&6J5sPVqsd%0>qqsJ,sC&V5P+%PLL6&56PTqJ&,LsM>LM6,%,P&MF%&P>qMdqL6&MC%MVLs6Cq>P&5>s,,&q.sd,>CMVqdd%PPV5%s,Q5sssM;%>%VsJ&5JPPq&d&k6qVd%xJ>PV,&5%VMJMC%MP&55d>LVV5Jd&CV%J&MP%,6L>5RMsC,MJVVuLPMqV,LC66%G6>Cqs,fL>d,,C%&sL&V5LMPM5qdCo6s{TLCP,qJdMd%,6%%%d&q5s>,MsMVCJ&&/LJ6P5,PLqdPCc%>sV&CL&>LVMqCC6J5jdJ2Ps&,LC,&VJ%M&%&6%5>d&qqsC,6d9LVJP&uLL6P5VPCqss&j&>>V,Cq&CL6Mr%J6M5,dLI&>V,PCs&&J5V>JL6q5Pd6qLsJ=dC,,CC%MVLs6s%qP5q>sMq%>dV6CC&JL66,%LPd%VdJcss%,5C&&MJ&MCJ6MM5JPa ,sP,d>VV%CP5&L56V5MP5qCs6tWdJcqJ,&6LdMJ%%6qq&65 s>M,sCCV5J=M,%PP,5Jddq5s%,,C&VLJ>MML>6C%YPUqJsP<Q>LqdC%&%L&6&LiP>5LdqjCdJ,fCC&PJLML%6PVL%dPE&sL,>C&VqJ6M6L4VM5PPqqLs6,V>LVs>&5LL>6V%qP>q6d5bJdPJsCL&6LVMJ%s6P55d&qMsq,PC6VfJJM6%,6J5ddVsLss,&>5VdJM&qLC66>JPJqMs,9s>dV,C%&sCLM5%>PM55dCS6sW,CCP&,JLGJ%V6%5sP_qPs>,M>q%dM%%,6MAVdLqMs&dqi,>sV&C5qP6V5Cd>q,sJVM>%V&Js&sJJJCV%%&655>&&sL,qL,&sLP>PqV665>d%qJ%s&%>qVdjM6J%V63V!s)R,dsM5%>PM,C>x&&J5M>s,5Css4,>d,dCC&LV>CLMVL%6s>s9>d4&,CCVPJ,MdL%6q%5%LPdqVdLS6sM,5C>&Mds%sdMq5>k,,ssMPC6&&JiP6%C6CqM5,PPqCs61)6sJMML%J6&5%s>Fd>,dJEs>M,qCC56J%&C%PP,5LVJ>&VLJM6BJqMJ%5PPq&Pcq5>C,VCsV%J>Cq&PLs6&%5,P>&H>C6MCJJ&V&&JMML%dPV>J,&>PV>CLMVLCMsqJP,qVdsq5q>s&,V>%VsP6Lq665q%L6%q6dztJMqCq&%J0CVNLJs,Ls%Dd>wVCCLCVVCJJMP%,qCP56VJ,V&CM>JVVJM&qLC,,ddqs>&,V>C&&,qCM&sL&M5>P,6>-V5JCMd%dM)q5J>&>%V6%5sVCsQV&CJ&,L,M,LdCJq%dsidsJ,5#CsCV&C5&>d,%Jd6!MsM&CLM,qJJ&5LMPJ%>6q6J5&dMqqsCLL&VJ6M%L%Pd6M%sP%qss&Ld6s%%sq5dsVq5>V,P>%d>qJ>V,%CsL6Mq%ePP5>s,T,>J,qC%&&L,JM&JL%6s5&VC>M,,>JVsJP&d&sJq6,%LPdCCk>>MV&%dMMJ8JLMP%66<5J8q>N,qJV>qVMJsM&L53MdPKPsM,c>5VsL6M6&>Cq6V%%PsC,,%s8V5JPM6L>6LVJs%q&ds,VsiVdJd&XL>>>q,6Cq,d,iJqsdd,,>LVdPPL5Pd5qd6qJs%VL>6&&CLMVLV665d%M6J5%ds-&M>CJM&L%M5%vPL6s%Ld,qLsdLd&sCq>&5JMT5,PJR6ssd5rJ>Ps,L&s%^q6%>d6i%Vd>jMsqJV&,JLMJ%&>dV%Jsqq>M,PCCV>JPsP%VP65dPJ&LsM,g>&&,J>MsLL6qMJ%PPM5qdC>LVLC2C&,%JLMd%V,,s&jM%5&MCP&PJMMzL56sq6d6MLCM,q>JVqJ&&C&PJ6Mq%CP6C&wLCMVsCBMV,VPJ5d6CqsdDUq>&VP,VsLVJJPM,ss55PqFL>P,dC>6dCqMPL5P,q>dCqMs&,&>>VJCCC6VMJ5M>%M{JdJr5>>,qJ,ML5&PL%%6MqPdCq}>6s,wP>CV6CB5!P,%ss>55dq_>C&VP,JC6&MJqMCsLq%dLZsq5sd,dCVV%PM%JP>5LdqPL%Js6v >J%&&%%dPP5PJ%Vd%&,L>d&&JP&LL&6,%dJPaJs&0Ms%VLCLs&%JM>5&6s5Ld:q5qsP>,,>LVd6qL>P&qVdVM>J&6qCsV&JqMVLsMq%%P&MVCd4P>5V>q>&>LCM,%>PJ5sd&P5qVsd,V>%JLMM%%P65,PJqssL,VCM>&,5CL&dLV/Vd&5C5Ld>1Msq,CC6VbJJMPL5Mq5ddVq%M,C,VqJV>Mq5CCk5P5EC>V,L>5>MfqC%&sL&.JPCqPs>,,>5,JC>M6J%6&%sPM4Csdq%>6,JC%>Lr%J6&ULJ-qPqq%diPVLLds%LM%Ld6p5CPL&%CJ&MJqd,L%6>5PPMVsdL)q>dV>CLP,,M>%VVJPM,LL,Md&q5sL&sC6&6L5dL&dCqMH%JPPC%,&>M&,JJ&LL5PL5s6Jq>s,:1>MVdLPVqJ%MC%V6>56%nPCq>sM2qMLLMM&%PL&M6%LPdqV&,>>&VJC&^LP6sqPPL5Ldq,,q5sd,dCVV%PM%C6C5%dqPL5us63/>J%8MVLtP&5%PJ,C>V,,CM>,,dCC&6JA/CP>qLds=qs>,CCM>!VPJ>MMLq,MdL+M>P&sC*VqLVCq&6Ls6&%5VP>&,&>5&&JqMsLJJ5&k%dPV5%&6>,V>JsVaLCdsL:6L5dddE&>Vsd,V>%VsP>&5L>6M%qPCq6da5J>MV,CL&dLVM%J_P&55PLnMsq,CC&VrJCMPJq6P5ddVq%6L,&>5V>CVVJLC6M%i6,qPs,ZLdd_CC%&dL&M%%>MJ5qPs5>s0,sCPxkJLMd%V6%J6d&q%s>,,>qVCJ6&RLV6P5,PLqdsVYJ>sV&>%&>LMMq%>P655dJ5Pd},LCP&VJ%Ms%,655>P8qqsd,6>mVJC>M,>LMC5VPCqsM5:5dPVMdq,qL6M%%J&5q,M5{dPV,dCsV:J5,&%MM&5CM6LPsJ,&C,iqJd&VL%VsdJP5qPsM*5>C!,CofJC%6,%>PdL>d%Lq>&55>M&MJLMCCq685,dP%,d&,d>qV%sMM&Ls6>JM6>qCsV=UdPVPCJ&LLd&L%%PMq&d5w>>,,qdC,>JgMd%PM&5LPxZV6%%5C&VCJ>GLLqVs56&*J&sPj%>L5%JVVdLsM&LdP>q,dq%C>6,LCJ&PJLML%&PV5%dsqzs55>>%VqJPM6JV6J%ld,LLP5,V>>Vs>5&5JV6MCq6Mq6dLlJs>V,C6&dJV&d%s6G55PsjMsJ,Cd6qPJJM&%,&65dPJq%ss5L>5V6JM&qLCM5%)&J5Ps,9s>d5JC%zJL&,5LPPM5JdC3,smqLCP),JVMdL56%%Cd&qJs>5M>5VCJ,&X>,6PJMPLLdPqw%>MV&CV&>J%MqCC6C5}dd?Ps>,LC,&VJ%q&%&6>5>d&qqsC,6s5fCJP&JLL&65VP%qss&C)>>,qCq&ML6Mq%J6PL%dL:&>V5gCsV5J5&>Ld6q5dd6qJsJ,VC,VL>wMVLL6s%7P5qdsM5qd?V6C5&JL66,%&Pd%96vfssq,5s5&MJqMCL&M%5Jd,g,PL,dCVV%JsV5L56d5MPCqCs&XIdJULJ,&>Ld6,%%6qq&PL5s>M,CCCAVJBMJ%PMq%PddqLs%qsC&V5J>MMJX6C5VPFq6sPpq>LIdCM&%LM6&%%P>5JdqqsdL,=C6&PC%ML%dPV%JP%u&sd,>sMVqJCM6Lx6s5PP%qLdS,V>JVs>&VPL>Mq%qP>q6ddrJsMq9CLVYLV,5%sP&55Pd%Vsq,VC6B/JJMP%,6L%5dVqsssTJ>5VdJM,qLM66%CPJq&s,Ln>dVVCd&sJJM5%>PM5%dC%6sd,J>5&,sdMdJN6%5PSMq5dc,M>CVCJ6&;JJV55,PMqdMdU%sqV&C5,NLMM>%C6%5hdC!Pd,u>CdVLJ%MP%&VV5>dM5LsCF%>eVJJP&qLLVd5,P%5_s&%>>>,,Cq&s6PMk%VPP5JdL:d>Ve%dI&&JPM>>>6q5,d6q(P5,P>JVLCqMVLL6sL&Psq>d5bq>PV6dM&JLP&>%L6qqVd%?s>,,5d>VqJqMV%6VJ5JPVr,sCCsCVVMJsMVL56>5M6q%Vs64s>J5JJ,&&Ld6VL5Ps5%d5},>M,5CC,6J%MJLzP,5sddLPs%,sssV5J,MMLq6C5&P{LJd6,,>MVdd%&%>%6&%LqCqMdPeC>6,WCJ&PJ,VM%d6C5%&%f&s6,>CM,CJC&qLr6&5PP1qLPdqP>%VVJ&&CL>,s%qPC%sdK2&>PV,CL&6LV,%L,P&5Pd>Lqsq5gC6V5MLMPLs6L56dVq%ss*&dPV>CL&qsq66%dPJqPdC{L>,VVC6&sLVM5J>6&5qdMF6sJ,JPC&,JLVC%V665sd&q5sd,MPq,PJ6&sLJV,5,&Jqdd3>5>s,CC5&6LMMq%C66LsdJq5>,5,CdV>J%MsJP655&dMqdsC,M>yKJCJM,LP6d%%P%JLs&95sPVMCd&CL6M;%>PPL,PCvdsC,%d&&&CqM>%V5-5CPLq3ss,PC,VLCd<CL%MB5&&&q>dJaq>C,JC8&6LPM>%LPPqV6%Z&>&,sC>&MJq&q%660%&dPqJsL,6CVVLJsM&L&6>5MPqq>s6I_>J,qJ,&LLdM5%%Psq&dJLd>M,qCCL%ML%dPP55JVMs%&,JJdVLqh6V%J6JqVP3x5sP,&CLVCLMM&Lq6M55Pzq6LP,L>JVsq,&dL%6L%5PLqCsL)C>J6%5C&,Jq6,5V6dVLd>hE>&,>5&6CJ_MC%V6%5JJ,q5d7,qcssqV,CL&ddC%>PMq&Cd,MsesL_SC6VHJJ%CPVqJs&qqs>,PCCV=LVJ,&JLC66%:xM>6,MCdsqVVC%&sJ,&&%>PM5qddx6s8,J>MV5JLMP%V6>5sd&q5P>qc>qV>J6&qLJ6M5,6C5%sVlC>sVVC5&>LMMqL6P65qdJh&>,,LCd&V>!Ms%&655>dMq%sC,6sdVJJPM,LJ6d5,P%qsV>!5>>VMC5&CL6Mu%JPPq,dL=ds5,%Cs&&JJM6%M6q5Cb5>q,5J,>5VVJdMVL%5LdMi%>6,,>JVsJLMV%ML&qP%LPdqV,6>M,qC5&PqCs/,JP&qqdMMs>CV&C&&CJs6PL56JqMdVxLsJ,d>L&PJs&%Z5PM5&Pr&>>CEq>MVJJ>&CL5>,qsPVqLsJ=J%6VL5JP,JLM?5&P,5sdPqLLL,MCL&PJMs&%6P&qVdCqPL6,VC>VLJVdLq6Mq5CP55CC6l&C,ML%M6,%JsL%>6JqC5&PCqLsd,V66JM&qL5sV5qPJPVq6dYKJsM/PCL&dLVMJ%sP&55Pd!&sq,>C6VqJJMP%,&L%6dVqLss,V>5V6JMV%L&66%%PJq&s,BL>dVVCP&sLVM5%PPM5qdCN6s,,JCP&,JLMdL16%5s6sq5s>,M>5VCJM&FLJqL5,PLqds,l%>sV&C5&>LMMq%CP,5rdJnPs5,sCd&VJ%5,dVq,sMd,q6sC,6>xJqMd%-Ps5MP5qJsq,6Cd>P5,Cq&CL65sPdqVs,x>L%P&55M,LCMC%%d&q%JL,V>,,55dV%JC6PLC6Cq6d,?6s>g#>LVdqP&LL>P6%>P>tMdW,M>s,qCJ&P 6>V,JP&qqdMMd>MVJC5&Mq5MV%C6J5Ms&h&Ls6dCMVPL6C5&6Ld6V%%,FdqrC>>M%JC&PV%J;MJ%PMq%,dd}Vs%,PC&V5J>&VJq6C5MPkqCsP,,>L3dCM&%Ld6&%%P>5_dqqss_, Cs&PJ5ML%dPV5%6Ll&s%,>C,VqJCM6L/6d5Pd,qLsd,V>JVsJ&&sL>6M%qP>q6dq=J>PLdCL&dLVML%sP&55d>HMsq,CC6VLJJMP%,6>5&dVq%ssCL&%JLMq&LL&66%QPJC5(%>sVd%JMsLMJKqP%>PM5q,V>,,LCJ&&qds%,s6aqLd,M6>d,X>U&dJ66&LJ6sq,Pqj>ss,M>>&&J6&CrJP,%TP%&Pd%,s>MVsCL&&JqM%5d6L53JCn3>5,sCCV%JJ66LC65qVPa&5sP,5CsVPq6Md%6PM5LPs&dsM,J>5VM55MM%VML%5P,qLdsmLsS,d5s&6Jd6P&qL&6s5&P5s%,6C5&PJV&LL>6%5&d66qqVd%zss,p&C>&MJqMP%66g5JPM5MsL,PCVVLJsM&L5&>%CPqq>s6cq>JVMJ,VCJL6V%CPs5!d5.>>M,q>d&6JqMJ%&P,5Ldd#VsC,sC&V5J>MML%6C56P&qJsP,,>JVdJ,&%Lsq>%5P>qMd5bC>6,(CJ&PL,ML%d655%ds-&sJ,VCMVqJCq%6L5ddPVC>d,&nq>>VsJ&&5PVq&dVZ6qVdPgJ>PV,&}LsP,5>P65qdLk{>PVs,d6MVSJJMPP>5sd&YVsCM55MPqJd6&Ls>L55ddqds5hLCCVVCqMsLP6#%qPJ5<sC?L>,PVJs&dLMs%qCP&5&dqVCCq,JJHVEJCsPq&6L%LdsV&Cq<%CJP>J,M>%&6,,_dVqrsq,d>&PVCqMPL>Mq,>sL5LdCq%>5M&JMV5Ld6,%&LM6d5VP%5PPs95>>VMCL&CL6M8L>6>q,dJKds_,%Cs&&>5&,%M655CdMq<sC,Psq,PJd&qL%6M5&P5q>sMqP>CVMCF&sLP6,%LPd%dd%7s>&,5C>&VJqMCLd6x5JdPq^sL,PCVV%65M&L56>5&PqqCs6<n>JVPJ,&LL&6V%%Ps58ddD>>M,qPVL,ML%JsqqLdsdMJss%,sC&LPM6LU6q5dCJM,LL,MCvV6q>MJ%M6M5JP>!ddqELC6V&J%&LLsM%5dP>55Jq,6>MV,5C6dLPPsL5>%q>Jdl5LL6dCP&PJ&MC,,6&V,P%qVLP,&CCV%J&d%%M>V,%PLqLd>-;s56LCsV%kVMq%,Pp6>%%dVq%ssCdVqLsMrLL6P5&ddq%sqd5/s>dVVC%%,PV5,dM6L5qdCY6d5q3CP&,JLMM%V6%5sP,q6s>,&>qVPJ6&YLJ&P%LPLqPsVNL>sVVC5VdJ%Mq%dP655dJFP>,,LsJ&VJLMsLA655>dMqqsM,6>=VJJPM,LC6d5V6dqss&m5>sVMC5&CL6qP%JPPq,dJ1d>V,%Cs&&J5M>%M6J5Cd6q(ss,VC,VLJd%JPL5Jd5PJJ6sM)q>CJ%&LLd6P%5CV&sL&gJCd,L5lMVLJMJ5V61q5dPR&>L,CJM&&JqMM%56356JPoLsJ,s5,&PLVMC%d65%>C5qqs6,s>UVPJP&PLTMd5Vd,q6ssMs>6VLC6VqL>Md,66L5JP:q5>sV,i5>6VdJV&%dm%qPCq>C%,C>P>V,PCJ&PL,%ZPsc,s>U6sq,LC &PLsJVM6L86J%M6PqLsd,V>>VsJ&&5Jd6&%qP>q6dqoJ>PV,sLV%LVML%sPV55dP4Md%?5C6V%JJMM%,6L5ddVqVss,V>5VPJM&qLC66%dPJqPs,}L>d,-C%&sJ%M5%>PM55dC<Ms+,JML&,JLMd%,6%5sd&q5s>,M>qVCJ6&fJ%6P5,PLq6sV*%>sV&C5&>JL8q%d6L5cdJ!P&%C6MVL%MqqqP6qsdCd,qJsC,6>95PMsLL6q6M%5P%qss&JJV9JPMC&dJqM;%JPPC54CCV&,C>M&V(JJM>%M6qdL_8s>ss,,C,VLJd5%s>5qdP&LqPdRWq>CV6&>%C6%%%%CPdqVd%^s>&,5C>&MJL&q%66)5J&,>!,>C5&MLPP6Lq665%dqP%qCs6??>JVPJ,MLssMq%>Psq&d5J>VsJ5&,&&JyMJ%PP,5Ldd55M%,6>qV5J>MMdLq,PJHJ5,sP,,>L,6dV&%Ls
+--// Roblox Loading Screen GUI Script: "MoziIOnTop" Design
+-- This script creates a UI with a rounded dark background, profile picture, title, progress bar, and subtitle.
+-- It animates the progress bar (0%->50%->100%) and then fades out the GUI.
+
+-- Services
+local Players = game:GetService("Players")
+local TweenService = game:GetService("TweenService")
+
+local player = Players.LocalPlayer
+local playerGui = player:WaitForChild("PlayerGui")
+
+-- Configuration: sizing and styling (adjust these values as needed)
+local containerWidth, containerHeight = 330, 100      -- Overall GUI container size in pixels
+local containerBackgroundColor = Color3.fromRGB(0, 0, 0)  -- Dark background color (black)
+local containerBgTransparency = 0                   -- Background transparency (0 = opaque, 1 = fully transparent)
+local cornerRadius = 8                                -- Corner radius for container frame (in pixels)
+
+local pfpSize = 80                                    -- Profile picture diameter in pixels
+local pfpMarginLeft = 10                              -- Left margin from container edge to PFP
+local pfpImageId = "119134042963263".. player.UserId .."&w=150&h=150"  
+-- (Above uses the local player's Avatar HeadShot thumbnail)
+
+local textMarginTop = 10                              -- Top margin inside container for the title text
+local textMarginRight = 10                            -- Right margin inside container
+local gapBetweenPFPAndText = 10                       -- Horizontal gap between PFP and the text column
+
+local titleText = "Tiktok: Leo_is_sussy"
+local titleFont = Enum.Font.GothamBold
+local titleTextSize = 20                              -- Font size for title text
+local titleColor = Color3.fromRGB(255, 255, 255)      -- Title text color (white)
+
+local subtitleText = "Follow leo_is_sussy"
+local subtitleFont = Enum.Font.Gotham
+local subtitleTextSize = 16                           -- Font size for subtitle
+local subtitleColor = Color3.fromRGB(255, 255, 255)   -- Subtitle text color (white)
+
+local progressBarWidth = containerWidth - pfpMarginLeft - pfpSize - gapBetweenPFPAndText - textMarginRight  
+local progressBarHeight = 20                          -- Height of the progress bar
+local progressBarTrackColor = Color3.fromRGB(60, 60, 60)   -- Color for the progress bar background (track)
+local progressBarFillColor = Color3.fromRGB(255, 0, 0)     -- Color for the progress bar fill (red in this case)
+local progressCornerRadius = progressBarHeight / 2         -- Corner radius for bar (half height for pill shape)
+
+local fillToHalfTime = 4.0                           -- Time (seconds) to fill to 50%
+local pauseTime = 5.0                                -- Time to pause at 50%
+local fillToFullTime = 4.0                           -- Time to fill from 50% to 100%
+local fadeOutTime = 0.5                              -- Time for the shrink & fade-out animation
+
+-- Create ScreenGui container
+local screenGui = Instance.new("ScreenGui")
+screenGui.Name = "LoadingScreenGUI"
+screenGui.IgnoreGuiInset = true  -- optional: ensures GUI ignores the top-bar inset
+screenGui.ResetOnSpawn = false   -- GUI will persist if the player respawns (set true if you want it to reset)
+screenGui.Parent = playerGui
+
+-- Main container frame (background panel)
+local container = Instance.new("Frame")
+container.Name = "Container"
+container.AnchorPoint = Vector2.new(0.5, 0.5)
+container.Position = UDim2.new(0.5, 0, 0.5, 0)  -- center of the screen
+container.Size = UDim2.new(0, containerWidth, 0, containerHeight)
+container.BackgroundColor3 = containerBackgroundColor
+container.BackgroundTransparency = containerBgTransparency
+container.ClipsDescendants = true   -- ensures children don't spill outside (useful for rounding/shrinking)
+container.Parent = screenGui
+
+-- Round corners for the container
+local containerCorner = Instance.new("UICorner")
+containerCorner.CornerRadius = UDim.new(0, cornerRadius)
+containerCorner.Parent = container
+
+-- Profile Picture Image (circular)
+local pfpImage = Instance.new("ImageLabel")
+pfpImage.Name = "ProfileImage"
+pfpImage.BackgroundTransparency = 1        -- no background on the ImageLabel itself
+pfpImage.Image = 119134042963263                -- uses the local player's headshot thumbnail
+pfpImage.Size = UDim2.new(0, pfpSize, 0, pfpSize)
+pfpImage.Position = UDim2.new(0, pfpMarginLeft, 0.5, 0)  
+pfpImage.AnchorPoint = Vector2.new(0, 0.5)  -- anchor the image to the middle left of the container
+pfpImage.Parent = container
+
+-- Make the PFP circular by rounding its corners (using a UICorner with 50% radius)
+local pfpCorner = Instance.new("UICorner")
+pfpCorner.CornerRadius = UDim.new(0.5, 0)   -- 0.5 (50%) of the image size, yields a circle for a square image
+pfpCorner.Parent = pfpImage
+
+-- Title Text Label (bold)
+local titleLabel = Instance.new("TextLabel")
+titleLabel.Name = "TitleLabel"
+titleLabel.BackgroundTransparency = 1      -- transparent background for text
+titleLabel.Text = titleText
+titleLabel.Font = titleFont
+titleLabel.TextSize = titleTextSize
+titleLabel.TextColor3 = titleColor
+titleLabel.TextXAlignment = Enum.TextXAlignment.Left   -- left-align text within the label
+titleLabel.Position = UDim2.new(0, pfpMarginLeft + pfpSize + gapBetweenPFPAndText, 0, textMarginTop)
+titleLabel.Size = UDim2.new(0, progressBarWidth, 0, titleTextSize + 4)  
+-- (Size X set to the width of the content area; Y slightly larger than TextSize for padding)
+titleLabel.Parent = container
+
+-- Progress Bar Background (track)
+local progressBarFrame = Instance.new("Frame")
+progressBarFrame.Name = "ProgressBar"
+progressBarFrame.BackgroundColor3 = progressBarTrackColor
+progressBarFrame.BorderSizePixel = 0        -- no border line
+progressBarFrame.Position = UDim2.new(0, pfpMarginLeft + pfpSize + gapBetweenPFPAndText, 0, textMarginTop + titleLabel.Size.Y.Offset + 8)
+-- (Positioned a few pixels below the title label)
+progressBarFrame.Size = UDim2.new(0, progressBarWidth, 0, progressBarHeight)
+progressBarFrame.Parent = container
+
+-- Round the progress bar's corners (full pill shape)
+local progressBarCorner = Instance.new("UICorner")
+progressBarCorner.CornerRadius = UDim.new(0, progressCornerRadius)
+progressBarCorner.Parent = progressBarFrame
+
+-- Fill element inside the progress bar (initially 0% width)
+local fillFrame = Instance.new("Frame")
+fillFrame.Name = "Fill"
+fillFrame.BackgroundColor3 = progressBarFillColor
+fillFrame.BorderSizePixel = 0
+fillFrame.Size = UDim2.new(0, 0, 1, 0)   -- start with zero width (0% of bar), full height (1.0 scale of parent’s height)
+fillFrame.Position = UDim2.new(0, 0, 0, 0)  -- aligned to left inside the track
+fillFrame.Parent = progressBarFrame
+
+-- Round the fill's corners to match the bar (so it remains smooth on the left end)
+local fillCorner = Instance.new("UICorner")
+fillCorner.CornerRadius = UDim.new(0, progressCornerRadius)
+fillCorner.Parent = fillFrame
+
+-- Subtitle Text Label
+local subtitleLabel = Instance.new("TextLabel")
+subtitleLabel.Name = "SubtitleLabel"
+subtitleLabel.BackgroundTransparency = 1
+subtitleLabel.Text = subtitleText
+subtitleLabel.Font = subtitleFont
+subtitleLabel.TextSize = subtitleTextSize
+subtitleLabel.TextColor3 = subtitleColor
+subtitleLabel.TextXAlignment = Enum.TextXAlignment.Center  -- center the text horizontally
+subtitleLabel.Position = UDim2.new(0, pfpMarginLeft + pfpSize + gapBetweenPFPAndText, 1, -textMarginTop)
+subtitleLabel.AnchorPoint = Vector2.new(0, 1)  -- anchor the subtitle at the bottom of container (for bottom margin)
+subtitleLabel.Size = UDim2.new(0, progressBarWidth, 0, subtitleTextSize + 4)
+subtitleLabel.Parent = container
+
+-- OPTIONAL: Adjust vertical alignment of PFP to match text block (if needed)
+-- By default, PFP is vertically centered. If you want the PFP aligned to top of the text, you can set:
+-- pfpImage.AnchorPoint = Vector2.new(0, 0) and pfpImage.Position = UDim2.new(0, pfpMarginLeft, 0, textMarginTop)
+
+-- Progress bar fill animation using TweenService
+local tweenInfoLinear = TweenInfo.new(fillToHalfTime, Enum.EasingStyle.Linear, Enum.EasingDirection.Out)
+local tweenToHalf = TweenService:Create(fillFrame, tweenInfoLinear, { Size = UDim2.new(0.5, 0, 1, 0) })  -- to 50% width
+local tweenToFull = TweenService:Create(fillFrame, TweenInfo.new(fillToFullTime, Enum.EasingStyle.Linear, Enum.EasingDirection.Out), 
+    { Size = UDim2.new(1, 0, 1, 0) })  -- to 100% width
+
+-- Start the first tween (0% -> 50%)
+tweenToHalf:Play()
+tweenToHalf.Completed:Wait()  -- wait until it finishes filling to 50%
+
+wait(pauseTime)              -- pause at 50% for the specified duration
+
+-- Continue to full (50% -> 100%)
+tweenToFull:Play()
+tweenToFull.Completed:Wait()  -- wait until fill reaches 100%
+
+-- Loading complete: shrink and fade out the entire GUI
+-- Prepare tween for shrinking the container size to 0 (from its center) and fading out elements
+local fadeTweenInfo = TweenInfo.new(fadeOutTime, Enum.EasingStyle.Quint, Enum.EasingDirection.In)
+-- Tween for container size (shrinking to 0,0)
+local shrinkTween = TweenService:Create(container, fadeTweenInfo, { Size = UDim2.new(0, 0, 0, 0) })
+-- Tweens for fading out each element’s transparency
+local containerFade = TweenService:Create(container, fadeTweenInfo, { BackgroundTransparency = 1 })
+local titleFade = TweenService:Create(titleLabel, fadeTweenInfo, { TextTransparency = 1 })
+local subtitleFade = TweenService:Create(subtitleLabel, fadeTweenInfo, { TextTransparency = 1 })
+local fillFade = TweenService:Create(fillFrame, fadeTweenInfo, { BackgroundTransparency = 1 })
+local pfpFade = TweenService:Create(pfpImage, fadeTweenInfo, { ImageTransparency = 1 })
+
+-- Play all fade/shrink tweens at once
+shrinkTween:Play()
+containerFade:Play()
+titleFade:Play()
+subtitleFade:Play()
+fillFade:Play()
+pfpFade:Play()
+
+-- Wait for the fade-out animation to complete
+shrinkTween.Completed:Wait()
+
+-- Remove the GUI after the animation
+screenGui:Destroy()
+
+        local TabCoolKidGui = Window:CreateTab("CoolKidV3", 4483362458)
+
+        local TabStealABrainRot = Window:CreateTab("StealABrainRot", 4483362458)
+
+        local TabGAG = Window:CreateTab("Grow A Graden", 4483362458)
+
+        TabCoolKidGui:CreateButton({
+
+            Name = "COOLKIDV3",
+
+            Callback = function()
+
+                loadstring(game:HttpGet('https://raw.githubusercontent.com/MiRw3b/c00lgui-v3rx/main/c00lguiv3rx.lua'))()
+
+            end,
+
+        })
+
+        Tab:CreateButton({
+
+            Name = "Infinity Yield",
+
+            Callback = function()
+
+                loadstring(game:HttpGet('https://raw.githubusercontent.com/edgeiy/infiniteyield/master/source'))()
+
+            end,
+
+        })
+
+        TabStealABrainRot:CreateButton({
+
+            Name = "StealABrainRot",
+
+            Callback = function()
+
+                loadstring(game:HttpGet('https://raw.githubusercontent.com/Youifpg/Steal-a-Brianrot/refs/heads/main/ArbixHubBEST.lua'))()
+
+            end,
+
+        })
+
+        TabStealABrainRot:CreateButton({
+
+            Name = "Steal A brainrot Free keyless",
+
+            Callback = function()
+
+                loadstring(game:HttpGet("https://raw.githubusercontent.com/tienkhanh1/spicy/main/Chilli.lua"))()
+
+            end,
+
+        })
+
+        TabStealABrainRot:CreateButton({
+
+            Name = "Steal A brainrot Visual Spawner",
+
+            Callback = function()
+
+                loadstring(game:HttpGet("https://gitlab.com/traxscriptss/traxscriptss/-/raw/main/visual2.lua"))()
+
+            end,
+
+        })
+
+        TabGAG:CreateButton({
+
+            Name = "Grow A Garden(EGG ONLY WORKS)",
+
+            Callback = function()
+
+                loadstring(game:HttpGet("https://raw.githubusercontent.com/MoziIOnTop/MoziIHub/refs/heads/main/GrowaGarden"))()
+
+            end,
+
+        })
+
+        
+
+        TabGAG:CreateButton({
+
+            Name = "Grow A Garden",
+
+            Callback = function()
+
+                loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptspawn/darkspawner/refs/heads/main/darkscript.lua"))()
+
+            end,
+
+        })
+
+        Rayfield:LoadConfiguration()
+
+    end)
+
+end)
