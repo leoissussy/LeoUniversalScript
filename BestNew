@@ -190,7 +190,7 @@ screenGui:Destroy()
 
         local Window = Rayfield:CreateWindow({
 
-            Name = "Leo Universal Script",
+            Name = "Leo Universal Script V1.1",
 
             Icon = 0,
 
@@ -284,11 +284,11 @@ screenGui:Destroy()
 
         TabStealABrainRot:CreateButton({
 
-            Name = "StealABrainRot",
+            Name = "StealABrainRot updated",
 
             Callback = function()
 
-                loadstring(game:HttpGet('https://raw.githubusercontent.com/Youifpg/Steal-a-Brianrot/refs/heads/main/ArbixHubBEST.lua'))()
+                loadstring(game:HttpGet('loadstring(game:HttpGet("https://raw.githubusercontent.com/Youifpg/Steal-a-Brainrot-op/refs/heads/main/Arbixhub-obfuscated.lua"))()'))()
 
             end,
 
@@ -296,7 +296,7 @@ screenGui:Destroy()
 
         TabStealABrainRot:CreateButton({
 
-            Name = "Steal A brainrot Free keyless",
+            Name = "Steal A brainrot Free keyless(STEALER PATCHED)",
 
             Callback = function()
 
