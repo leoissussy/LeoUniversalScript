@@ -258,6 +258,9 @@ screenGui:Destroy()
 
         local TabGAG = Window:CreateTab("Grow A Graden", 4483362458)
 
+        local TabSG = Window:CreateTab("Ink Games", 4483362458)
+
+
         TabCoolKidGui:CreateButton({
 
             Name = "COOLKIDV3",
@@ -281,6 +284,29 @@ screenGui:Destroy()
             end,
 
         })
+
+        TabSG:CreateButton({
+
+            Name = "ink games 1",
+
+            Callback = function()
+
+                loadstring(game:HttpGet("https://rawscripts.net/raw/HIDE-AND-SEEK-Ink-Game-eF-Hub-44791"))()
+            end,
+
+        })
+
+        TabSG:CreateButton({
+
+            Name = "ink games 1",
+
+            Callback = function()
+
+                https://rawscripts.net/raw/HIDE-AND-SEEK-Ink-Game-eF-Hub-44791
+            end,
+
+        })
+
 
         TabStealABrainRot:CreateButton({
 
