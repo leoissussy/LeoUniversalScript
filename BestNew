@@ -288,8 +288,7 @@ screenGui:Destroy()
 
             Callback = function()
 
-                loadstring(game:HttpGet('https://raw.githubusercontent.com/Youifpg/Steal-a-Brainrot-op/refs/heads/main/Arbixhub-obfuscated.lua"))()'))()
-
+                loadstring(game:HttpGet("https://raw.githubusercontent.com/Youifpg/Steal-a-Brainrot-op/refs/heads/main/Arbixhub-obfuscated.lua"))()
             end,
 
         })
