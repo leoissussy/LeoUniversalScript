@@ -298,6 +298,17 @@ screenGui:Destroy()
 
         TabSG:CreateButton({
 
+            Name = "ink games 2",
+
+            Callback = function()
+
+                loadstring(game:HttpGet("https://rawscripts.net/raw/HIDE-AND-SEEK-Ink-Game-Siff-Hub-Keyless-45045"))()
+            
+           end,
+        })
+
+        TabSG:CreateButton({
+
             Name = "ink games 2(RECOMMENDED WITH 1ST SCRIPT",
 
             Callback = function()
