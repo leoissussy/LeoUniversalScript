@@ -260,6 +260,9 @@ screenGui:Destroy()
 
         local TabSG = Window:CreateTab("Ink Games", 4483362458)
 
+        local TabMisc = Window:CreateTab("Misc", 4483362458)
+
+
 
         TabCoolKidGui:CreateButton({
 
@@ -273,13 +276,25 @@ screenGui:Destroy()
 
         })
 
-        Tab:CreateButton({
+         TabCoolKidGui:CreateButton({
 
-            Name = "Infinity Yield",
+            Name = "COOLKIDV3",
 
             Callback = function()
 
-                loadstring(game:HttpGet('https://raw.githubusercontent.com/edgeiy/infiniteyield/master/source'))()
+                loadstring(game:HttpGet('https://raw.githubusercontent.com/MiRw3b/c00lgui-v3rx/main/c00lguiv3rx.lua'))()
+
+            end,
+
+        })
+
+        TabMisc:CreateButton({
+
+            Name = "BYPASS ANTI CHEAT",
+
+            Callback = function()
+
+                loadstring(game:HttpGet("https://raw.githubusercontent.com/HeadHarse/Dusty/refs/heads/main/BYPASSANTICHEAT"))()
 
             end,
 
