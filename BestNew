@@ -292,8 +292,8 @@ screenGui:Destroy()
             Callback = function()
 
                 loadstring(game:HttpGet("https://rawscripts.net/raw/HIDE-AND-SEEK-Ink-Game-eF-Hub-44791"))()
-            end,
-
+            
+           end,
         })
 
         TabSG:CreateButton({
@@ -302,7 +302,8 @@ screenGui:Destroy()
 
             Callback = function()
 
-                https://rawscripts.net/raw/HIDE-AND-SEEK-Ink-Game-eF-Hub-44791
+                loadstring(game:HttpGet("https://rawscripts.net/raw/HIDE-AND-SEEK-Ink-Game-eF-Hub-44791"))()
+            
             end,
 
         })
