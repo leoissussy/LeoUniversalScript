@@ -346,12 +346,11 @@ screenGui:Destroy()
 
         TabGAG:CreateButton({
 
-            Name = "Grow A Garden(EGG ONLY WORKS)",
+            Name = "Grow A Garden(CALL BACK ERROR FIXED)",
 
             Callback = function()
 
                 loadstring(game:HttpGet("https://raw.githubusercontent.com/MoziIOnTop/MoziIHub/refs/heads/main/GrowaGarden"))()
-
             end,
 
         })
