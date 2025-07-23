@@ -194,7 +194,7 @@ screenGui:Destroy()
 
             Icon = 0,
 
-            LoadingTitle = "Rayfield Interface Suite",
+            LoadingTitle = "The Launcher",
 
             LoadingSubtitle = "by Leo",
 
@@ -298,7 +298,7 @@ screenGui:Destroy()
 
         TabSG:CreateButton({
 
-            Name = "ink games 1",
+            Name = "ink games 2(RECOMMENDED WITH 1ST SCRIPT",
 
             Callback = function()
 
@@ -322,7 +322,7 @@ screenGui:Destroy()
 
         TabStealABrainRot:CreateButton({
 
-            Name = "Steal A brainrot Free keyless(STEALER PATCHED)",
+            Name = "Steal A brainrot Free keyless(STEALER FIXED)",
 
             Callback = function()
 
