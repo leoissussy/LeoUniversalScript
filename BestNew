@@ -264,7 +264,7 @@ screenGui:Destroy()
 
         local TabBF = Window:CreateTab("BloX Fruit", 4483362458)
 
-
+        local Label = TabBF:CreateLabel("Blox Fruit Spawner/FreePerm Is Currently In Progress", "")
 
         TabCoolKidGui:CreateButton({
 
@@ -371,8 +371,6 @@ screenGui:Destroy()
             end,
 
         })
-
-       local Label = TabBF:CreateLabel("Blox Fruit Spawner/FreePerm Is Currently In Progress", "")
 
         TabGAG:CreateButton({
 
