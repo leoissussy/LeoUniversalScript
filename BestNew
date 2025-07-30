@@ -24,12 +24,12 @@ local textMarginTop = 10                              -- Top margin inside conta
 local textMarginRight = 10                            -- Right margin inside container
 local gapBetweenPFPAndText = 10                       -- Horizontal gap between PFP and the text column
 
-local titleText = "Tiktok: Leo_is_sussy"
+local titleText = "YouTube: LeoBestScript"
 local titleFont = Enum.Font.GothamBold
 local titleTextSize = 20                              -- Font size for title text
 local titleColor = Color3.fromRGB(255, 255, 255)      -- Title text color (white)
 
-local subtitleText = "Follow leo_is_sussy"
+local subtitleText = "Subscribe To LeoBestScript"
 local subtitleFont = Enum.Font.Gotham
 local subtitleTextSize = 16                           -- Font size for subtitle
 local subtitleColor = Color3.fromRGB(255, 255, 255)   -- Subtitle text color (white)
@@ -244,7 +244,7 @@ screenGui:Destroy()
 
                 GrabKeyFromSite = false,
 
-                Key = { "idk" }
+                Key = { "LeoIsTheBest" }
 
             }
 
@@ -261,6 +261,8 @@ screenGui:Destroy()
         local TabSG = Window:CreateTab("Ink Games", 4483362458)
 
         local TabMisc = Window:CreateTab("Misc", 4483362458)
+
+        local TabBF = Window:CreateTab("BloX Fruit", 4483362458)
 
 
 
@@ -369,6 +371,8 @@ screenGui:Destroy()
             end,
 
         })
+
+       local Label = TabBF:CreateLabel("Blox Fruit Spawner/FreePerm Is Currently In Progress", "")
 
         TabGAG:CreateButton({
 
