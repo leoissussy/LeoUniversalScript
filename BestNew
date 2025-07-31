@@ -228,7 +228,7 @@ screenGui:Destroy()
 
             },
 
-            KeySystem = true,
+            KeySystem = false,
 
             KeySettings = {
 
@@ -370,6 +370,19 @@ screenGui:Destroy()
 
         })
 
+        TabBF({
+
+            Name = "Blox Fruit Perm Spawner",
+
+            Callback = function()
+
+                loadstring(game:HttpGet("https://pastefy.app/bzy1bnPK/raw"))()
+
+            end,
+
+        })
+
+ 
         TabGAG:CreateButton({
 
             Name = "Grow A Garden(CALL BACK ERROR FIXED)",
