@@ -369,7 +369,19 @@ screenGui:Destroy()
             end,
 
         })
- 
+
+        TabBF:CreateButton({
+
+            Name = "Blox Fruit",
+
+            Callback = function()
+
+                loadstring(game:HttpGet("https://pastefy.app/bzy1bnPK/raw"))()
+
+            end,
+
+        })
+
         TabGAG:CreateButton({
 
             Name = "Grow A Garden(CALL BACK ERROR FIXED)",
@@ -383,8 +395,6 @@ screenGui:Destroy()
             end,
 
         })
-
-        
 
         TabGAG:CreateButton({
 
