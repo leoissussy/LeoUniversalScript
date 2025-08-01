@@ -262,7 +262,7 @@ screenGui:Destroy()
 
         local TabMisc = Window:CreateTab("Misc", 4483362458)
 
-        local TabBF = Window:CreateTab("Blox Fruit(in progress)", 4483362458)
+        local TabBF = Window:CreateTab("Blox Fruit(BETA)", 4483362458)
 
         TabCoolKidGui:CreateButton({
 
@@ -346,6 +346,19 @@ screenGui:Destroy()
 
         })
 
+
+        TabGAG:CreateButton({
+
+            Name = "Grow A Garden",
+
+            Callback = function()
+
+                loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptspawn/darkspawner/refs/heads/main/darkscript.lua"))()
+
+            end,
+
+        })
+
         TabStealABrainRot:CreateButton({
 
             Name = "Steal A brainrot Free keyless(STEALER FIXED)",
@@ -384,13 +397,13 @@ screenGui:Destroy()
 
         })
 
-        TabGAG:CreateButton({
+        TabBF:CreateButton({
 
-            Name = "Grow A Garden",
+            Name = "(BETA) Blox Fruit",
 
             Callback = function()
 
-                loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptspawn/darkspawner/refs/heads/main/darkscript.lua"))()
+                loadstring(game:HttpGet("https://raw.githubusercontent.com/leoissussy/MozilHubV4/refs/heads/main/MozilOnTop"))()
 
             end,
 
